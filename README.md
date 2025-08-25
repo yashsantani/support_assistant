@@ -56,7 +56,8 @@
      ```
 
 ### 🏗️ Architecture Diagram
-  ![Architecture Diagram](https://github.com/user-attachments/assets/c90b7e04-fdc9-4be5-9840-f96bc8280f6d)
+  ![Architecture Diagram]<img width="1920" height="1080" alt="Your paragraph text" src="https://github.com/user-attachments/assets/8bce347a-5e38-4a6f-880b-7dd0dce06261" />
+
 
 ### 📡 API Endpoints
 
